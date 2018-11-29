@@ -1,0 +1,26 @@
+{
+  "name": "pullreq",
+  "version": "1.0.0",
+  "description": "Opens a new pull request in browser for current branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touqeerhassan/pullreq.git"
+  },
+  "keywords": [
+    "pullreq",
+    "pullrequest",
+    "pull-request",
+    "pr",
+    "pull-req"
+  ],
+  "author": "Touqeer Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/touqeerhassan/pullreq/issues"
+  },
+  "homepage": "https://github.com/touqeerhassan/pullreq#readme"
+}
