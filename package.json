@@ -1,5 +1,5 @@
 {
-  "name": "pullreq",
+  "name": "open-pr",
   "version": "1.0.0",
   "description": "Opens a new pull request in browser for current branch",
   "main": "index.js",
